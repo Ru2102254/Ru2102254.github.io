@@ -3,7 +3,7 @@
 
 ## Education projects
 
-    -### DES315 Professional Project - Operation:Operation
+###             - DES315 Professional Project - Operation:Operation
 Made for 3rd year University in Unreal Engine 5, released on Itch.io. Operation:Operation is a horror, stealth, puzzle game based on Alien Isolation and the board game Operation.
 
 [Operation;Operation Itch.io Link](https://kelpie-studios.itch.io/operation-operations)
