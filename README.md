@@ -1,9 +1,9 @@
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
 # Ru2102254.github.io
 
 ## Education projects
 
-### - DES315 Professional Project - Operation:Operation
+    -### DES315 Professional Project - Operation:Operation
 Made for 3rd year University in Unreal Engine 5, released on Itch.io. Operation:Operation is a horror, stealth, puzzle game based on Alien Isolation and the board game Operation.
 
 [Operation;Operation Itch.io Link](https://kelpie-studios.itch.io/operation-operations)
