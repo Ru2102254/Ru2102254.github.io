@@ -30,3 +30,4 @@ A test build for different functions and ideas in unreal engine 5 including a di
 I plan for this to either stay as a playground of sorts in unreal engine or to create a full project that can stand on it's own.
 
 ### - Many more still in the planning stages
+Since this portfolio is meant to showcase what I have currently, I will not show projects that have not been brought to code and are still in deep planning and working out some functionality and mechanics, this includes a tactics game, a fighting game, a management game as well as many many others.
