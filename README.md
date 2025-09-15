@@ -27,7 +27,7 @@ This has been an on and off work in progress inspired greatly by other games of 
 
 ### - Untitled Unreal Engine 5 project
 A test build for different functions and ideas in unreal engine 5 including a dialogue system and the starts of a basic attack and inventory system.
-I plan for this to either stay as a playground of sorts in unreal engine or to create a full project that can stand on it's own.
+I plan for this to either stay as a playground of sorts in unreal engine or to create a full project that can stand on it's own inspired by Drakengard.
 
 ### - Many more still in the planning stages
 Since this portfolio is meant to showcase what I have currently, I will not show projects that have not been brought to code and are still in deep planning and working out some functionality and mechanics, this includes a tactics game, a fighting game, a management game as well as many many others.
