@@ -11,10 +11,12 @@ Made for 3rd year University in Unreal Engine 5, released on Itch.io. Operation:
 ### - CMP105 Games Programming Project - Crypt in the Gray
 Made for 4th year University with SFML, released on Itch.io. Crypt in the Gray is a top-down, action, dungeon crawler based on The Legend of Zelda and Lovecraftian Horror.
 
+[Crypt in the Gray Itch.io Link]()
+
 ## Personal Projects
 
 ### - 22CC - 22nd Century Crows
-Currently being worked on in Godot game engine with the Dialogic Plugin. 22nd Century Crows is a dectective adventure game with visual novel, investigation and puzzle elements.
+Currently being worked on in Godot game engine with the Dialogic Plugin. 22nd Century Crows is a dectective adventure game with visual novel, investigation and puzzle elements similar to games like Ace Attourney, Danganronpa and The Silver Case.
 
 ### - A Fools Errand
 Currently being worked on in RPGMaker MZ. A Fools Errand is an rpg, focusing on combat, exploration and puzzles.
