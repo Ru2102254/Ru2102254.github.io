@@ -3,19 +3,28 @@
 
 ## Education projects
 
+### - CMP105 Games Programming Project - Crypt in the Gray
+Made for 1st year University with SFML, released on Itch.io. Crypt in the Gray is a top-down, action, dungeon crawler based on The Legend of Zelda and Lovecraftian Horror.
+Everything but the music and sounds in the game were made by me, this game and idea are still a work in progress I would like to come back to and expand with more investigation and more in depth dungeon crawling.
+
+[Crypt in the Gray Itch.io Link](https://sleeepster.itch.io/crypt-in-the-grey)
+
+### - CMP208 Skateboard Project - DungeonVania
+Made for 2nd year University with a university in house engine called Skateboard. Dungeonvania is a side view action platformer with inspirations from Castlevania.
+I had a focus on map and boss design and programming.
+
+
 ### - DES315 Professional Project - Operation:Operation
 Made in a team for 3rd year University in Unreal Engine 5, released on Itch.io. Operation:Operation is a horror, stealth, puzzle game based on Alien Isolation and the board game Operation.
 While there were many people in the team as well as another programmer, I focused on the UI programming and animation as well as the creature's AI and pathing.
 
 [Operation:Operation Itch.io Link](https://kelpie-studios.itch.io/operation-operations)
 
-### - CMP105 Games Programming Project - Crypt in the Gray
-Made for 4th year University with SFML, released on Itch.io. Crypt in the Gray is a top-down, action, dungeon crawler based on The Legend of Zelda and Lovecraftian Horror.
-Everything but the music and sounds in the game were made by me, this game and idea are still a work in progress I would like to come back to and expand with more investigation and more in depth dungeon crawling.
 
-[Crypt in the Gray Itch.io Link](https://sleeepster.itch.io/crypt-in-the-grey)
 
 ## Personal Projects
+
+### 
 
 ### - 22CC - 22nd Century Crows
 Currently being worked on in Godot game engine with the Dialogic Plugin. 22nd Century Crows is a dectective adventure game with visual novel, investigation and puzzle elements similar to games like Ace Attourney, Danganronpa and The Silver Case.
