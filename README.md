@@ -20,7 +20,7 @@ div.pagelayout div{
 }
   
 div.imagecontainer{
-  width:90%;
+  width:50%;
   overflow:auto;
 }
 div.imagecontainer div{
