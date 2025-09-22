@@ -12,9 +12,16 @@ h1   {color: "#ffffff;"}
 h2   {color: "#ffffff;"}
 p    {color: "#ffffff;"}
 
+div.pagelayout{
+}
+div.pagelayout div{
+  width:100%;
+  float:middle;
+}
+  
 div.imagecontainer{
-  width:100%
-  overflow:auto
+  width:90%;
+  overflow:auto;
 }
 div.imagecontainer div{
 width:80%;  
