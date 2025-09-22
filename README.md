@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+
+
 <body style="background-color:powderblue;">
 
 # Portfolio
@@ -41,3 +45,6 @@ I plan for this to either stay as a playground of sorts in unreal engine or to c
 
 ### - Many more still in the planning stages
 Since this portfolio is meant to showcase what I have currently, I will not show projects that have not been brought to code and are still in deep planning and working out some functionality and mechanics, this includes a tactics game, a fighting game, a management game as well as many many others.
+
+
+</html>
