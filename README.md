@@ -20,11 +20,11 @@ div.pagelayout div{
 }
   
 div.imagecontainer{
-  width:50%;
+  width:100%;
   overflow:auto;
 }
 div.imagecontainer div{
-width:80%;  
+width:50%;  
 float:left;
 }
 
