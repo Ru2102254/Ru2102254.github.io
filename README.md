@@ -2,10 +2,17 @@
 <html>
 
 
-<body style="background-color:#c9bfbf">
+<body>
 <head>
   
 <title>Ruadhán Ó Riabhaigh's Portfolio</title>
+
+<style>
+body {background-color:000000;}
+h1   {color: ffffff;}
+h2   {color: ffffff;}
+p    {color: ffffff;}
+</style>
 </head>
 
 
