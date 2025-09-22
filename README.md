@@ -2,9 +2,25 @@
 <html>
 
 
-<body style="background-color:powderblue;">
+<body style="background-color:white;">
+<head>
+<title>Ruadhán Ó Riabhaigh's Portfolio</title>
+</head>
+<body>
+<h1> Education projects </h1>
 
-# Portfolio
+<h2> CMP105 Games Programming Project - Crypt in the Gray </h2>
+
+<p>Made for 1st year University with SFML, released on Itch.io. Crypt in the Gray is a top-down, action, dungeon crawler based on The Legend of Zelda and Lovecraftian Horror.
+Everything but the music and sounds in the game were made by me, this game and idea are still a work in progress I would like to come back to and expand with more investigation and more in depth dungeon crawling.
+
+[Crypt in the Gray Itch.io Link](https://sleeepster.itch.io/crypt-in-the-grey)</p>
+
+<h1> Personal Projects </h1>
+
+  
+</body>
+Portfolio
 
 ## Education projects
 
