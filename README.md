@@ -1,4 +1,4 @@
-
+The background color is `#ffffff` 
 # Portfolio
 
 ## Education projects
