@@ -48,6 +48,8 @@ float:left;
 
 </div>
 
+<br>
+
 <h2 stlye="color:#c9bfbf"> CMP208 Skateboard Project - DungeonVania </h2>
 
 <p stlye="color:#c9bfbf"> Made for 2nd year University with a university in house engine called Skateboard. Dungeonvania is a side view action platformer with inspirations from Castlevania.
