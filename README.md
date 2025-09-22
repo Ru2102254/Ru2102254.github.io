@@ -16,7 +16,7 @@
 
 <p>Made for 1st year University with SFML, released on Itch.io. Crypt in the Gray is a top-down, action, dungeon crawler based on The Legend of Zelda and Lovecraftian Horror.
 Everything but the music and sounds in the game were made by me, this game and idea are still a work in progress I would like to come back to and expand with more investigation and more in depth dungeon crawling.
-
+<br>
 <a href="https://sleeepster.itch.io/crypt-in-the-grey"> Crypt in the Gray Itch.io Link</a>
 </p>
 
@@ -30,10 +30,9 @@ I had a focus on map and boss design and programming. </p>
 <p> 
 Made in a team for 3rd year University in Unreal Engine 5, released on Itch.io. Operation:Operation is a horror, stealth, puzzle game based on Alien Isolation and the board game Operation.
 While there were many people in the team as well as another programmer, I focused on the UI programming and animation as well as the creature's AI and pathing.
-</p>
-
+<br>
 <a href="https://kelpie-studios.itch.io/operation-operations">Operation:Operation Itch.io Link</a>
-
+</p>
 
 <h1> Personal Projects </h1>
 
