@@ -2,7 +2,7 @@
 <html>
 
 
-<body style="background-color:#753232">
+<body style="background-color:#ffffff">
 <head>
   
 <title>Ruadhán Ó Riabhaigh's Portfolio</title>
