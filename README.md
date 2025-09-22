@@ -46,7 +46,7 @@ float:left;
   <img src="CryptInTheGray1.png" alt="CryptInTheGray" width="150" height="100">  
 </div>
 
-
+</div>
 
 <h2 stlye="color:#c9bfbf"> CMP208 Skateboard Project - DungeonVania </h2>
 
