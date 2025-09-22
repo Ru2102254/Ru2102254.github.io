@@ -47,7 +47,6 @@ float:left;
     <a href="https://sleeepster.itch.io/crypt-in-the-grey"> Crypt in the Gray Itch.io Link</a>
   </p>
   </div>
-
   <div>
     <img src="CryptInTheGray1.png" alt="CryptInTheGray" width="150" height="100">  
   </div>
@@ -61,16 +60,25 @@ float:left;
 <p stlye="color:#c9bfbf"> Made for 2nd year University with a university in house engine called Skateboard. Dungeonvania is a side view action platformer with inspirations from Castlevania.
 I had a focus on map and boss design and programming. Due to the nature of the project it is not accessible. </p>
 
+
 <h2 stlye="color:#c9bfbf"> DES315 Professional Project - Operation:Operation </h2>
 
+<div class="imagecontainer">
 <img src="OperationOperation.png" alt="OperationOperation" width="150" height="100">
-
+  <div>  
 <p stlye="color:#c9bfbf"> 
 Made in a team for 3rd year University in Unreal Engine 5, released on Itch.io. Operation:Operation is a horror, stealth, puzzle game based on Alien Isolation and the board game Operation.
 While there were many people in the team as well as another programmer, I focused on the UI programming and animation as well as the creature's AI and pathing.
 <br>
 <a href="https://kelpie-studios.itch.io/operation-operations">Operation:Operation Itch.io Link</a>
 </p>
+  </div>
+    <div>
+    <img src="OperationOperation.png" alt="OperationOperation" width="150" height="100">
+    </div>
+</div>
+<br>
+
 
 <h1 stlye="color:#c9bfbf"> Personal Projects </h1>
 
