@@ -3,11 +3,11 @@
 
 
 <body style="background-color:#000000;">
-<body style="color:#ffffff;">
 <head>
 <title>Ruadhán Ó Riabhaigh's Portfolio</title>
 </head>
-<body>
+<body style="color:#ffffff;">
+
 
 
 <h1> Education projects </h1>
