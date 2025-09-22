@@ -7,10 +7,6 @@
 </head>
 
 <style>
-body {background-color: 000000;}
-h1   {color: ffffff;}
-h2   {color: ffffff;}
-p    {color: ffffff;}
 
 div.pagelayout{
 }
@@ -29,7 +25,7 @@ float:left;
 }
 
 </style>
-<body>
+<body style="background-color:#000000;">
 
 
 
