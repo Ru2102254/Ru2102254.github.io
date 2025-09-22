@@ -2,9 +2,9 @@
 <html>
 
 
-<head>
-  
+<head>  
 <title>Ruadhán Ó Riabhaigh's Portfolio</title>
+</head>
 
 <style>
 body {background-color:"#000000;"}
