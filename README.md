@@ -64,7 +64,6 @@ I had a focus on map and boss design and programming. Due to the nature of the p
 <h2 stlye="color:#c9bfbf"> DES315 Professional Project - Operation:Operation </h2>
 
 <div class="imagecontainer">
-<img src="OperationOperation.png" alt="OperationOperation" width="150" height="100">
   <div>  
 <p stlye="color:#c9bfbf"> 
 Made in a team for 3rd year University in Unreal Engine 5, released on Itch.io. Operation:Operation is a horror, stealth, puzzle game based on Alien Isolation and the board game Operation.
