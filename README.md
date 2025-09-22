@@ -8,10 +8,20 @@
 <title>Ruadhán Ó Riabhaigh's Portfolio</title>
 
 <style>
-body {background-color:000000;}
-h1   {color: ffffff;}
-h2   {color: ffffff;}
-p    {color: ffffff;}
+body {background-color:"#000000;"}
+h1   {color: "#ffffff;"}
+h2   {color: "#ffffff;"}
+p    {color: "#ffffff;"}
+
+div.imagecontainer{
+  width:100%
+  overflow:auto
+}
+div.imagecontainer div{
+width:20%;  
+float:left;
+}
+
 </style>
 </head>
 
@@ -22,13 +32,20 @@ p    {color: ffffff;}
 
 <h2 stlye="color:#c9bfbf"> CMP105 Games Programming Project - Crypt in the Gray </h2>
 
-<img src="CryptInTheGray1.png" alt="CryptInTheGray" width="150" height="100">
+<div class="imagecontainer">
+  
+<div>
+  <p stlye="color:#c9bfbf">Made for 1st year University with SFML, released on Itch.io. Crypt in the Gray is a top-down, action, dungeon crawler based on The Legend of Zelda and Lovecraftian Horror.
+  Everything but the music and sounds in the game were made by me, this game and idea are still a work in progress I would like to come back to and expand with more investigation and more in depth dungeon crawling.
+  <br>
+  <a href="https://sleeepster.itch.io/crypt-in-the-grey"> Crypt in the Gray Itch.io Link</a>
+  </p>
+</div>
 
-<p stlye="color:#c9bfbf">Made for 1st year University with SFML, released on Itch.io. Crypt in the Gray is a top-down, action, dungeon crawler based on The Legend of Zelda and Lovecraftian Horror.
-Everything but the music and sounds in the game were made by me, this game and idea are still a work in progress I would like to come back to and expand with more investigation and more in depth dungeon crawling.
-<br>
-<a href="https://sleeepster.itch.io/crypt-in-the-grey"> Crypt in the Gray Itch.io Link</a>
-</p>
+<div>
+  <img src="CryptInTheGray1.png" alt="CryptInTheGray" width="150" height="100">  
+</div>
+
 
 
 <h2 stlye="color:#c9bfbf"> CMP208 Skateboard Project - DungeonVania </h2>
