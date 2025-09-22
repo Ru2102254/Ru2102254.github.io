@@ -48,7 +48,7 @@ float:left;
   </p>
   </div>
   <div>
-    <img src="CryptInTheGray1.png" alt="CryptInTheGray" width="150" height="100">  
+    <img src="CryptInTheGray1.png" alt="CryptInTheGray" width="300" height="200">  
   </div>
 
 </div>
@@ -73,7 +73,7 @@ While there were many people in the team as well as another programmer, I focuse
 </p>
   </div>
     <div>
-    <img src="OperationOperation.png" alt="OperationOperation" width="150" height="100">
+    <img src="OperationOperation.png" alt="OperationOperation" width="300" height="200">
     </div>
 </div>
 <br>
