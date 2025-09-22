@@ -34,17 +34,17 @@ float:left;
 
 <div class="imagecontainer">
   
-<div>
+  <div>  
   <p stlye="color:#c9bfbf">Made for 1st year University with SFML, released on Itch.io. Crypt in the Gray is a top-down, action, dungeon crawler based on The Legend of Zelda and Lovecraftian Horror.
-  Everything but the music and sounds in the game were made by me, this game and idea are still a work in progress I would like to come back to and expand with more investigation and more in depth dungeon crawling.
+    Everything but the music and sounds in the game were made by me, this game and idea are still a work in progress I would like to come back to and expand with more investigation and more in depth dungeon crawling.
   <br>
-  <a href="https://sleeepster.itch.io/crypt-in-the-grey"> Crypt in the Gray Itch.io Link</a>
+    <a href="https://sleeepster.itch.io/crypt-in-the-grey"> Crypt in the Gray Itch.io Link</a>
   </p>
-</div>
+  </div>
 
-<div>
-  <img src="CryptInTheGray1.png" alt="CryptInTheGray" width="150" height="100">  
-</div>
+  <div>
+    <img src="CryptInTheGray1.png" alt="CryptInTheGray" width="150" height="100">  
+  </div>
 
 </div>
 
@@ -86,5 +86,5 @@ I plan for this to either stay as a playground of sorts in unreal engine or to c
 
 <p stlye="color:#c9bfbf">Since this portfolio is meant to showcase what I have currently, I will not show projects that have not been brought to code and are still in deep planning and working out some functionality and mechanics, this includes a tactics game, a fighting game, a management game as well as many many others.
 </p>
-
+</body>
 </html>
