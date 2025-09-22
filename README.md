@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>  
 <title>Ruadhán Ó Riabhaigh's Portfolio</title>
