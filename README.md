@@ -24,7 +24,7 @@ Everything but the music and sounds in the game were made by me, this game and i
 <h2 stlye="color:#ffffff"> CMP208 Skateboard Project - DungeonVania </h2>
 
 <p stlye="color:#ffffff"> Made for 2nd year University with a university in house engine called Skateboard. Dungeonvania is a side view action platformer with inspirations from Castlevania.
-I had a focus on map and boss design and programming. </p>
+I had a focus on map and boss design and programming. Due to the nature of the project it is not accessible. </p>
 
 <h2 stlye="color:#ffffff"> DES315 Professional Project - Operation:Operation </h2>
 
