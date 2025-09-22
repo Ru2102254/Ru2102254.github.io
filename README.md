@@ -18,7 +18,7 @@ div.imagecontainer{
   overflow:auto
 }
 div.imagecontainer div{
-width:50%;  
+width:80%;  
 float:left;
 }
 
