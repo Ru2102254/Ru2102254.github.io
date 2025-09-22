@@ -15,7 +15,7 @@
 
 <h2 stlye="color:#ffffff"> CMP105 Games Programming Project - Crypt in the Gray </h2>
 
-<img src="CryptInTheGray1.png" alt="CryptInTheGray" width="104" height="142">
+<img src="CryptInTheGray1.png" alt="CryptInTheGray" width="140" height="100">
 
 <p stlye="color:#ffffff">Made for 1st year University with SFML, released on Itch.io. Crypt in the Gray is a top-down, action, dungeon crawler based on The Legend of Zelda and Lovecraftian Horror.
 Everything but the music and sounds in the game were made by me, this game and idea are still a work in progress I would like to come back to and expand with more investigation and more in depth dungeon crawling.
@@ -31,7 +31,7 @@ I had a focus on map and boss design and programming. Due to the nature of the p
 
 <h2 stlye="color:#ffffff"> DES315 Professional Project - Operation:Operation </h2>
 
-<img src="OperationOperation.png" alt="OperationOperation" width="104" height="142">
+<img src="OperationOperation.png" alt="OperationOperation" width="130" height="100">
 
 <p stlye="color:#ffffff"> 
 Made in a team for 3rd year University in Unreal Engine 5, released on Itch.io. Operation:Operation is a horror, stealth, puzzle game based on Alien Isolation and the board game Operation.
