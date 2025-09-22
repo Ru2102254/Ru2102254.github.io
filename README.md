@@ -2,7 +2,6 @@
 <html>
 
 
-<body>
 <head>
   
 <title>Ruadhán Ó Riabhaigh's Portfolio</title>
@@ -23,7 +22,7 @@ float:left;
 }
 
 </style>
-</head>
+<body>
 
 
 
