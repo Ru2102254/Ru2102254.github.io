@@ -2,8 +2,8 @@
 <html>
 
 
-<body style="background-color:black;">
-<body style="text-colour:white;">
+<body style="background-color:#000000;">
+<body style="text-colour:#ffffff;">
 <head>
 <title>Ruadhán Ó Riabhaigh's Portfolio</title>
 </head>
@@ -17,7 +17,8 @@
 <p>Made for 1st year University with SFML, released on Itch.io. Crypt in the Gray is a top-down, action, dungeon crawler based on The Legend of Zelda and Lovecraftian Horror.
 Everything but the music and sounds in the game were made by me, this game and idea are still a work in progress I would like to come back to and expand with more investigation and more in depth dungeon crawling.
 
-[Crypt in the Gray Itch.io Link](https://sleeepster.itch.io/crypt-in-the-grey)</p>
+<a href=https://sleeepster.itch.io/crypt-in-the-grey>Crypt in the Gray Itch.io Link</a>
+</p>
 
 <h2> CMP208 Skateboard Project - DungeonVania </h2>
 
@@ -26,10 +27,12 @@ I had a focus on map and boss design and programming. </p>
 
 <h2> DES315 Professional Project - Operation:Operation </h2>
 
-<p> Made in a team for 3rd year University in Unreal Engine 5, released on Itch.io. Operation:Operation is a horror, stealth, puzzle game based on Alien Isolation and the board game Operation.
+<p> 
+Made in a team for 3rd year University in Unreal Engine 5, released on Itch.io. Operation:Operation is a horror, stealth, puzzle game based on Alien Isolation and the board game Operation.
 While there were many people in the team as well as another programmer, I focused on the UI programming and animation as well as the creature's AI and pathing.
 
-[Operation:Operation Itch.io Link](https://kelpie-studios.itch.io/operation-operations) </p>
+<a href=https://kelpie-studios.itch.io/operation-operations>Operation:Operation Itch.io Link</a>
+</p>
 
 
 <h1> Personal Projects </h1>
