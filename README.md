@@ -30,9 +30,9 @@ I had a focus on map and boss design and programming. </p>
 <p> 
 Made in a team for 3rd year University in Unreal Engine 5, released on Itch.io. Operation:Operation is a horror, stealth, puzzle game based on Alien Isolation and the board game Operation.
 While there were many people in the team as well as another programmer, I focused on the UI programming and animation as well as the creature's AI and pathing.
+</p>
 
 <a href=https://kelpie-studios.itch.io/operation-operations>Operation:Operation Itch.io Link</a>
-</p>
 
 
 <h1> Personal Projects </h1>
