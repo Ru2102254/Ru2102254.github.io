@@ -54,10 +54,17 @@ float:left;
 <br>
 
 <h2 stlye="color:#c9bfbf"> CMP208 Skateboard Project - DungeonVania </h2>
-
+<div class="imagecontainer">
+  
+<div>
 <p stlye="color:#c9bfbf"> Made for 2nd year University with a university in house engine called Skateboard. Dungeonvania is a side view action platformer with inspirations from Castlevania.
 I had a focus on map and boss design and programming. Due to the nature of the project it is not accessible. </p>
-
+</div>
+<div>
+<img src="OperationOperation.png" alt="OperationOperation" width="300" height="200">
+</div>
+</div>
+<br>
 
 <h2 stlye="color:#c9bfbf"> DES315 Professional Project - Operation:Operation </h2>
 
@@ -71,7 +78,8 @@ While there were many people in the team as well as another programmer, I focuse
 </p>
   </div>
     <div>
-    <img src="OperationOperation.png" alt="OperationOperation" width="300" height="200">
+    <img src="Dungenvania image 2.png" alt="Dungeonvania" width="300" height="200">
+    <img src="Dungenvania image.png" alt="Dungeonvania" width="300" height="200">
     </div>
 </div>
 <br>
