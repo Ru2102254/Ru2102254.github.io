@@ -61,7 +61,8 @@ float:left;
 I had a focus on map and boss design and programming. Due to the nature of the project it is not accessible. </p>
 </div>
 <div>
-<img src="OperationOperation.png" alt="OperationOperation" width="300" height="200">
+<img src="Dungenvania image 2.png" alt="Dungeonvania" width="300" height="200">
+<img src="Dungenvania image.png" alt="Dungeonvania" width="300" height="200">
 </div>
 </div>
 <br>
@@ -78,8 +79,7 @@ While there were many people in the team as well as another programmer, I focuse
 </p>
   </div>
     <div>
-    <img src="Dungenvania image 2.png" alt="Dungeonvania" width="300" height="200">
-    <img src="Dungenvania image.png" alt="Dungeonvania" width="300" height="200">
+     <img src="OperationOperation.png" alt="OperationOperation" width="300" height="200"> 
     </div>
 </div>
 <br>
