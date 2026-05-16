@@ -34,6 +34,19 @@ float:left;
 
 <h1 stlye="color:#c9bfbf"> Education projects </h1>
 
+
+
+<h2> Honours Project - First Person Dungeon Crawler with Customisable UI</h2>
+
+  <p> Made for the 4th year dissertation project using unity. The project is a first person dungeon crawler with an inventory, shopping and battle system.
+  The project also has a focus on customisable UI as I have an interest in UI programming. </p>
+
+  <br>
+   <a href="https://sleeepster.itch.io/customisable-ui-in-a-first-person-dungeon-crawler-honours-project">First Person Dungeon Crawler Itch.io Link</a>
+<br>
+  
+<br>
+
 <h2 stlye="color:#c9bfbf"> CMP105 Games Programming Project - Crypt in the Gray </h2>
 
 <div class="imagecontainer">
