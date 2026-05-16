@@ -31,6 +31,7 @@ float:left;
 
 <h1> Personal Links </h1>
  <a href="https://sleeepster.itch.io/"> Itch.io Profile </a>
+ <br>
  <a href="https://www.linkedin.com/in/ruadh%C3%A1n-%C3%B3-riabhaigh/"> LinkedIn Profile </a>
 
 
